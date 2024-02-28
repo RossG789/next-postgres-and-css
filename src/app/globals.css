@@ -31,3 +31,7 @@ body {
     text-wrap: balance;
   }
 }
+
+.heading {
+  color: pink;
+}
